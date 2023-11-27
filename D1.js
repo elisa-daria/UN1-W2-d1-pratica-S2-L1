@@ -79,7 +79,13 @@ console.log(
   name1 !== name2
 );
 
-console.log(
-  "extra se John fosse less than or equal di john cioè se fosse minisculo sarebbero uguali-questo è",
-  name2 <= name1
-);
+// console.log(
+//   "extra se John fosse less than or equal di john cioè se fosse minisculo sarebbero uguali-questo è",
+//   name2 <= name1
+// );
+// questo molto probabilmente è sbagliato e ci va un if statement
+// if (name2 === name1) {
+//   name2 = "john";
+// }
+// true;
+// (forse così ma forse anche no)
